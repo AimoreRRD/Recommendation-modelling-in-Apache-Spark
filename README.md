@@ -49,7 +49,3 @@ At least:
 
 #### a) Training and validating
 #### b) Test
-
-
-
-
